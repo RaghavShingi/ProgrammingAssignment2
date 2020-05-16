@@ -3,7 +3,7 @@
 
 ## Write a short comment describing this function
 ##This function gets a matrix as an input, sets the value of the matrix,
-#gets the value of the matrix, sets the inverse Matrix and gets the inverse Matrix.
+#gets the value of the matrix, sets the inverse Matrix and gets the inverse Matrix
 
 makeCacheMatrix <- function(x = matrix()) {
   invMatrix<-NULL
